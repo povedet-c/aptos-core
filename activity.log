@@ -435,3 +435,4 @@
 2025-08-07 04:12:55 typo fix
 2025-02-21 01:14:30 restructure modules
 2025-08-27 08:29:57 remove unused import
+2025-08-07 21:37:35 improve logging format
