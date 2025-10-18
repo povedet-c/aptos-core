@@ -172,3 +172,4 @@
 2025-10-22 22:17:32 enhance logging
 2025-10-03 16:09:05 better error handling
 2025-12-13 16:54:36 fix async issue
+2025-10-18 13:25:56 fix null pointer
