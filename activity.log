@@ -947,3 +947,4 @@
 2025-04-28 18:38:10 patch memory leak
 2025-12-26 21:58:28 fix typo in code
 2025-08-12 07:25:08 improve UX
+2025-12-24 10:31:31 update schema migration
